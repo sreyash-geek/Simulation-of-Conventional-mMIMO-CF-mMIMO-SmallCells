@@ -1,4 +1,4 @@
-**Simulation of Cellular mMIMO, Cell-free mMIMO & Small cells for SINR, SNR & Energy/Spectral Efficiency Analysis.** 
+**Simulation of Cellular mMIMO, Cell-free mMIMO & Small cells for SINR/SNR, Interference Mitigation & Energy/Spectral Efficiency Analysis.** 
 
 This project contains three MATLAB scripts designed to simulate, analyze, and visualize advanced wireless network scenarios. 
 The codes demonstrate various aspects of wireless communication performance, from spectral/energy efficiency analysis, channel modeling and SINR computations to innovative 3D visualizations and animations. 
